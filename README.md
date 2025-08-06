@@ -52,7 +52,4 @@ Labels indicate class membership (`0` or `1`). Points are visually separable wit
 - `output.csv` – Synthetic 2D dataset with labels
 - `neural_net.ipynb` – Full implementation and analysis notebook
 
----
 
-**Author:** Nickolaus Jackoski  
-**Date:** June 4, 2025
